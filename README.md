@@ -14,7 +14,7 @@
 
 Hi, I'm CHU, I am a Front End Engineer. I like to coding,I have five years of react development experience
 <br/>
-  <img align="right" alt="GIF" width="380px" src="https://img1.baidu.com/it/u=4072605527,520343634&fm=11&fmt=auto&gp=0.jpg" />
+  <img align="right" alt="GIF" width="350px" src="https://img1.baidu.com/it/u=4072605527,520343634&fm=11&fmt=auto&gp=0.jpg" />
 <br/>
 
 ![CHU295's github stats](https://github-readme-stats.vercel.app/api?username=CHU295&show_icons=true&hide_border=true)
