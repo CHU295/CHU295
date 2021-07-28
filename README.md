@@ -29,8 +29,8 @@ Hi, I'm CHU, I am a Front End Engineer. I like to coding,I have five years of re
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
-<a href="https://github.com/CHU295/Micro-Frontends-practice" style="margin-bottom: 12px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CHU295&repo=Micro-Frontends-practice"  style="margin-bottom: 12px"/>
+<a href="https://github.com/CHU295/Micro-Frontends-practice" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CHU295&repo=Micro-Frontends-practice"  />
 </a>
 <a href="https://github.com/CHU295/chu-tree-element_ui-to-iview">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CHU295&repo=chu-tree-element_ui-to-iview" />
