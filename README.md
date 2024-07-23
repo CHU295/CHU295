@@ -6,9 +6,6 @@
 <a href="https://juejin.cn/user/1785262612161309">
   掘金
 </a>
-<a href="https://segmentfault.com/u/chu295">
-  segmentfault
-</a>
 <br />
 <br />
 
